@@ -28,8 +28,11 @@ h2{
   padding-top:20px;
 }
 p{
-  color:rgb(222,287,252);
-  font-size:40px;
+  color:rgb(153, 32, 115);
+  font-size:60px;
+  position: absolute;
+margin-top: 60px;
+padding-top: 100px;
 }
 
 
