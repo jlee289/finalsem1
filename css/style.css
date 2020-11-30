@@ -1,0 +1,38 @@
+
+
+@font-face{
+  font-family: Robot-children;
+  src: url(Robot Children.ttf) format('truetype');
+
+}
+
+html{
+  background-color:white;
+  font-family:'Robot Children'
+}
+
+body{
+padding: 20px;
+margin: 20px;
+}
+h1{
+  Color: white;
+  margin-top: 0px;
+  padding-top: 20px;
+
+}
+h2{
+  font-size: 250%;
+  Color: rgb(250, 100, 100);
+  margin-top:0px;
+  padding-top:20px;
+}
+p{
+  color:rgb(222,287,252);
+  font-size:40px;
+}
+
+
+
+
+}
